@@ -10,7 +10,8 @@ Rui En here! I'm a freshmore in SUTD. Previously helped built Singapore's first 
 - 🔭 Researching to improve algorithms on action recognition tasks with Prof. Liu Jun
 - 👯 Doing part time robotics works with exciting teams
 - 🌱 Obsessed about AI and robotics, particularly computer vision and general intelligence
-- 📫 Email me at ruien_ho@mymail.sutd.edu.sg, or connect with me at <a href="https://www.linkedin.com/in/ho-rui-en/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
+- 📫 Email me at ruien_ho@mymail.sutd.edu.sg, or connect with me at https://www.linkedin.com/in/ho-rui-en/
+<!-- - <a href="https://www.linkedin.com/in/ho-rui-en/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a> -->
 
 <details>
   <summary>Things I code with</summary>
