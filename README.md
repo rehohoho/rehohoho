@@ -38,7 +38,7 @@ Rui En here! I'm a freshmore in SUTD. Previously helped built Singapore's first 
 <details>
   <summary>Fun Stats</summary>
   <img alt="Rui En's Github stats" img src="https://github-readme-stats.vercel.app/api?username=rehohoho&count_private=true&theme=tokyonight&line_height=40"/>
-  <img alt="Rui En's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehohoho&theme=dark&hide=HTML"/>
+  <img alt="Rui En's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehohoho&count_private=true&theme=tokyonight&hide=HTML"/>
 <!--   <img alt="Rui En's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehohoho&layout=compact&langs_count=10&theme=tokyonight"/> -->
   
   <img alt="Rui En's streak" img src="http://github-readme-streak-stats.herokuapp.com?user=rehohoho&theme=highcontrast&hide_border=true"/>
