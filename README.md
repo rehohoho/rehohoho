@@ -4,10 +4,10 @@
   Hi there!
 </h1>
 
-Rui En here! I'm a freshmore in SUTD. Previously helped built Singapore's first outdoor delivery robot at Whizz Mobility and completed an internship at Panasonic R&D on visual localization systems!
+Rui En here! I'm a sophomore in SUTD. Previously helped built Singapore's first outdoor delivery robot at Whizz Mobility and completed an internship at Panasonic R&D on visual localization systems!
 
 ### About me
-- 🔭 Researching to improve algorithms on action recognition tasks with Prof. Liu Jun's group.
+- 🔭 Researching to improve algorithms on action recognition tasks
 - 👯 Doing part time robotics works with exciting teams
 - 🌱 Obsessed about AI and robotics, particularly computer vision and general intelligence
 - 📫 Email me at ruien_ho@mymail.sutd.edu.sg, or connect with me at https://www.linkedin.com/in/ho-rui-en/
