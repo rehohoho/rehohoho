@@ -4,13 +4,13 @@
   Hi there!
 </h1>
 
-Rui En here! I'm a sophomore in SUTD. Previously helped built Singapore's first outdoor delivery robot at Whizz Mobility and completed an internship at Panasonic R&D on visual localization systems!
+Rui En here! I'm a junior currently on exchange in UCSD. Previously helped built Singapore's first outdoor delivery robot at Whizz Mobility, worked with Panasonic R&D on visual localization systems, then interned in TikTok AML building low-latency high-throughput stacks for large scale model deployment and serving!
 
 ### About me
-- 🔭 Researching to improve algorithms on action recognition tasks
+- 🔭 Researching to improve algorithms on action recognition/biomedical tasks
 - 👯 Doing part time robotics works with exciting teams
 - 🌱 Obsessed about AI and robotics, particularly computer vision and general intelligence
-- 📫 Email me at ruien_ho@mymail.sutd.edu.sg, or connect with me at https://www.linkedin.com/in/ho-rui-en/
+- 📫 Email me at ruien_ho@mymail.sutd.edu.sg, hruien@ucsd.edu or connect with me at https://www.linkedin.com/in/ho-rui-en/
 <!-- - <a href="https://www.linkedin.com/in/ho-rui-en/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a> -->
 
 <details>
