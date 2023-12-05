@@ -4,7 +4,7 @@
   Hi there!
 </h1>
 
-Rui En here! I'm a junior currently on exchange in UCSD. Previously helped built Singapore's first outdoor delivery robot at Whizz Mobility, worked with Panasonic R&D on visual localization systems, then interned in TikTok AML building low-latency high-throughput stacks for large scale model deployment and serving!
+Rui En here! I'm a senior Computer Science student in SUTD. Previously helped built Singapore's first outdoor delivery robot at Whizz Mobility, interned in TikTok AML building low-latency high-throughput stacks for large scale model deployment, then worked with Prof Kastner at UCSD on benchmarking AMD AI Engines!
 
 ### About me
 - 🔭 Researching to improve algorithms on action recognition/biomedical tasks
@@ -37,7 +37,7 @@ Rui En here! I'm a junior currently on exchange in UCSD. Previously helped built
 
 <details>
   <summary>Fun Stats</summary>
-  <img alt="Rui En's Github stats" img src="https://github-readme-stats.vercel.app/api?username=rehohoho&count_private=true&theme=tokyonight&line_height=40"/>
+  <img alt="Rui En's Github stats" img src="https://github-readme-stats.vercel.app/api?username=rehohoho&count_private=true&theme=tokyonight&line_height=40&show_icons=true"/>
   <img alt="Rui En's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehohoho&count_private=true&theme=tokyonight&hide=HTML"/>
 <!--   <img alt="Rui En's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehohoho&layout=compact&langs_count=10&theme=tokyonight"/> -->
   
